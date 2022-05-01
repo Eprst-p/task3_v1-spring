@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e052806-fec9-421a-82b8-34e67e147cd0" name="Changes" comment="first big step">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolService.java" afterDir="false" />
+    <list default="true" id="7e052806-fec9-421a-82b8-34e67e147cd0" name="Changes" comment="end of tutorial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651418781624</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="end of tutorial">
+      <created>1651419555254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651419555254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first big step" />
-    <option name="LAST_COMMIT_MESSAGE" value="first big step" />
+    <MESSAGE value="end of tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="end of tutorial" />
   </component>
 </project>

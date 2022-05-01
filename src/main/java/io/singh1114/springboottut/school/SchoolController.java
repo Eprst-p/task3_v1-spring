@@ -21,4 +21,14 @@ public class SchoolController {
     public void addSchool(@RequestBody School school) {
         schoolService.addSchool(school);
     }
+
+    @DeleteMapping("/school/{schoolId}")
+    public void removeSchool(@PathVariable String schoolId) {
+        schoolService.removeSchool(Long.parseLong(schoolId));
+    }
+
+    @PutMapping("/school/{schoolId}")
+    public void updateSchool(@PathVariable String schoolId, @RequestBody School school) {
+        schoolService.updateSchool(school, Long.parseLong(schoolId));
+    }
 }
