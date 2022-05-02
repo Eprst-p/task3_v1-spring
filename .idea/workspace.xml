@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e052806-fec9-421a-82b8-34e67e147cd0" name="Changes" comment="end of tutorial">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/config/SwaggerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/school/SchoolController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/singh1114/springboottut/controller/SchoolController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
