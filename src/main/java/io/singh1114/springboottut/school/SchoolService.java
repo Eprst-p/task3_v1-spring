@@ -19,6 +19,10 @@ public class SchoolService {
         return schools;
     }
 
+    public Optional<School> getSchool(long id) {
+        return schoolRepository.findById(id);
+    }
+
     public void addSchool(School school) {
         schoolRepository.save(school);
     }
