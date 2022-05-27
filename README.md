@@ -3,5 +3,6 @@ restAPI-Spring
 
 swagger: http://localhost:8080/swagger-ui/#/school-controller
 
-DB: MySQL
+DB: MySQL,
+
 initial db - empty []
